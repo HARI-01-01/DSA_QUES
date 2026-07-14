@@ -28,10 +28,12 @@ The solution of the DSA question.
 ## Depth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
@@ -41,4 +43,8 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
