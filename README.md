@@ -47,4 +47,12 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HARI-01-01/DSA_QUES/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HARI-01-01/DSA_QUES/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
