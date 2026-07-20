@@ -9,6 +9,7 @@ The solution of the DSA question.
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
@@ -55,6 +56,7 @@ The solution of the DSA question.
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
@@ -82,6 +84,7 @@ The solution of the DSA question.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
