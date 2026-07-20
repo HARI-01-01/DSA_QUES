@@ -7,6 +7,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
+| [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -119,4 +120,8 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
