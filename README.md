@@ -19,16 +19,19 @@ The solution of the DSA question.
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/1291-sequential-digits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
 |  |
@@ -75,6 +78,7 @@ The solution of the DSA question.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HARI-01-01/DSA_QUES/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
