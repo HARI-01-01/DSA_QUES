@@ -87,6 +87,7 @@ The solution of the DSA question.
 | [3536-maximum-product-of-two-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HARI-01-01/DSA_QUES/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -152,6 +153,7 @@ The solution of the DSA question.
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Ordered Set
 |  |
 | ------- |
