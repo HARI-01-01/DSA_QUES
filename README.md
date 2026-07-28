@@ -8,6 +8,7 @@ The solution of the DSA question.
 | ------- |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
@@ -155,6 +156,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Ordered Set
@@ -165,4 +167,8 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
