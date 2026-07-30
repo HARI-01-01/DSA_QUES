@@ -30,12 +30,14 @@ The solution of the DSA question.
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/1291-sequential-digits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +174,7 @@ The solution of the DSA question.
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Ordered Set
 |  |
 | ------- |
