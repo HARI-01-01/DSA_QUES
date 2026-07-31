@@ -7,6 +7,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
+| [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -66,6 +67,7 @@ The solution of the DSA question.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
@@ -168,6 +170,7 @@ The solution of the DSA question.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
