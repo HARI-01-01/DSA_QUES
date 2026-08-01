@@ -9,6 +9,7 @@ The solution of the DSA question.
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -90,6 +91,7 @@ The solution of the DSA question.
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -180,6 +182,7 @@ The solution of the DSA question.
 | ------- |
 | [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
@@ -207,4 +210,12 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
