@@ -92,6 +92,7 @@ The solution of the DSA question.
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0628-maximum-product-of-three-numbers) |
