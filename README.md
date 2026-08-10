@@ -195,6 +195,7 @@ The solution of the DSA question.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HARI-01-01/DSA_QUES/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1416-restore-the-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1416-restore-the-array) |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -215,6 +216,7 @@ The solution of the DSA question.
 | [0877-stone-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HARI-01-01/DSA_QUES/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/1406-stone-game-iii) |
 | [1416-restore-the-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1416-restore-the-array) |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
