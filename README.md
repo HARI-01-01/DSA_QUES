@@ -7,6 +7,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
+| [0300-longest-increasing-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
@@ -169,6 +170,7 @@ The solution of the DSA question.
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/0300-longest-increasing-subsequence) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
@@ -212,6 +214,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
@@ -285,4 +288,8 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/HARI-01-01/DSA_QUES/tree/master/1510-stone-game-iv) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
