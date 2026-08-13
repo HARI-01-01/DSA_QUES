@@ -200,6 +200,7 @@ The solution of the DSA question.
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0205-isomorphic-strings) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0583-delete-operation-for-two-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0583-delete-operation-for-two-strings) |
@@ -219,6 +220,7 @@ The solution of the DSA question.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
