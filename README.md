@@ -129,6 +129,7 @@ The solution of the DSA question.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/3360-stone-removal-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -155,6 +156,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
+| [3360-stone-removal-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
