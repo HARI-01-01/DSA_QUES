@@ -27,11 +27,11 @@ public:
 
                 if(s[i-1]==t[j-1]) dp[i][j] =  dp[i-1][j-1];
                 else {
-                int ins = 1 + dp[i][j-1];
-                int del = 1 + dp[i-1][j];
-                int rep = 1 + dp[i-1][j-1];
+                int ins = dp[i][j-1];
+                int del = dp[i-1][j];
+                int rep = dp[i-1][j-1];
 
-                    dp[i][j] = min(ins,min(del,rep));
+                    dp[i][j] = 1 + min(ins,min(del,rep));
                 }
             }
         }
