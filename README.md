@@ -174,6 +174,7 @@ The solution of the DSA question.
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
@@ -216,6 +217,7 @@ The solution of the DSA question.
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HARI-01-01/DSA_QUES/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0205-isomorphic-strings) |
@@ -238,6 +240,7 @@ The solution of the DSA question.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HARI-01-01/DSA_QUES/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
@@ -288,6 +291,7 @@ The solution of the DSA question.
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
