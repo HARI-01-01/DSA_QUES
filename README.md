@@ -353,4 +353,8 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
