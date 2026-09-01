@@ -363,4 +363,8 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0511-game-play-analysis-i) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HARI-01-01/DSA_QUES/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
