@@ -141,6 +141,7 @@ The solution of the DSA question.
 | [0263-ugly-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0877-stone-game) |
@@ -182,6 +183,7 @@ The solution of the DSA question.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -247,6 +249,7 @@ The solution of the DSA question.
 | [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0205-isomorphic-strings) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/HARI-01-01/DSA_QUES/tree/master/1048-longest-string-chain) |
