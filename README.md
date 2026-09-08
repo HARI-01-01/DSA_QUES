@@ -73,6 +73,7 @@ The solution of the DSA question.
 | [0845-longest-mountain-in-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/HARI-01-01/DSA_QUES/tree/master/1534-count-good-triplets) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/HARI-01-01/DSA_QUES/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -159,6 +160,7 @@ The solution of the DSA question.
 | [1510-stone-game-iv](https://github.com/HARI-01-01/DSA_QUES/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/HARI-01-01/DSA_QUES/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2578-split-with-minimum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2578-split-with-minimum-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
