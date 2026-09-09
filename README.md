@@ -34,6 +34,7 @@ The solution of the DSA question.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1480-running-sum-of-1d-array) |
 | [1534-count-good-triplets](https://github.com/HARI-01-01/DSA_QUES/tree/master/1534-count-good-triplets) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/HARI-01-01/DSA_QUES/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
 | [1816-truncate-sentence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1816-truncate-sentence) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
@@ -110,6 +111,7 @@ The solution of the DSA question.
 | [1331-rank-transform-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/HARI-01-01/DSA_QUES/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
 | [2578-split-with-minimum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -314,6 +316,7 @@ The solution of the DSA question.
 | [1406-stone-game-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/1406-stone-game-iii) |
 | [1416-restore-the-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1416-restore-the-array) |
 | [1510-stone-game-iv](https://github.com/HARI-01-01/DSA_QUES/tree/master/1510-stone-game-iv) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/HARI-01-01/DSA_QUES/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
