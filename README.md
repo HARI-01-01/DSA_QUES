@@ -125,6 +125,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/HARI-01-01/DSA_QUES/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -406,4 +407,12 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HARI-01-01/DSA_QUES/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
