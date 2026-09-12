@@ -271,6 +271,7 @@ The solution of the DSA question.
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HARI-01-01/DSA_QUES/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0205-isomorphic-strings) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
@@ -299,6 +300,7 @@ The solution of the DSA question.
 | [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HARI-01-01/DSA_QUES/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/0300-longest-increasing-subsequence) |
