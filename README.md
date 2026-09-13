@@ -25,6 +25,7 @@ The solution of the DSA question.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HARI-01-01/DSA_QUES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0845-longest-mountain-in-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/HARI-01-01/DSA_QUES/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/HARI-01-01/DSA_QUES/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
@@ -317,6 +318,7 @@ The solution of the DSA question.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HARI-01-01/DSA_QUES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0845-longest-mountain-in-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/HARI-01-01/DSA_QUES/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
