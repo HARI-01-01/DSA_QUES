@@ -6,6 +6,7 @@ The solution of the DSA question.
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
@@ -214,6 +215,7 @@ The solution of the DSA question.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -234,6 +236,7 @@ The solution of the DSA question.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
@@ -423,4 +426,8 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
