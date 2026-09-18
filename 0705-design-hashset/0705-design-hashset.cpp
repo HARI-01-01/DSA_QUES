@@ -1,35 +1,20 @@
 class MyHashSet {
 public:
-        vector<int> arr;
+vector<int> mp;
     MyHashSet() {
+        mp.resize(1000001,false);
     }
     
     void add(int key) {
-        int n = arr.size();
-        for(int i=0;i<n;i++){
-            if(key==arr[i]){
-                return;
-            }
-        }
-        arr.push_back(key);
+        mp[key] = true;
     }
     
     void remove(int key) {
-        int n = arr.size();
-        for(int i=0;i<n;i++){
-            if(key == arr[i]){
-                arr.erase(arr.begin()+i);
-                break;
-            }
-        }
+        mp[key] = false;
     }
     
     bool contains(int key) {
-        int n = arr.size();
-        for(int i=0;i<n;i++){
-            if(key ==  arr[i]) return true;
-        }        
-        return false;
+        return mp[key];
     }
 };
 
