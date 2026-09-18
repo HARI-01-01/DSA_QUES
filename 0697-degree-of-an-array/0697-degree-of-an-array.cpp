@@ -17,8 +17,8 @@ public:
     }
 
     int ans = n+1;
-
-for (int j=0;j<freq.size();j++) {
+    int m = freq.size();
+for (int j=0;j<m;j++) {
     int str = -1;
     int end = -1;
     for(int i=0;i<n;i++){
