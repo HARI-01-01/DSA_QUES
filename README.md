@@ -227,6 +227,7 @@ The solution of the DSA question.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -286,6 +287,7 @@ The solution of the DSA question.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HARI-01-01/DSA_QUES/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
@@ -464,4 +466,8 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HARI-01-01/DSA_QUES/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
