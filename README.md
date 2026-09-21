@@ -234,6 +234,7 @@ The solution of the DSA question.
 | [0678-valid-parenthesis-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
@@ -306,6 +307,7 @@ The solution of the DSA question.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1143-longest-common-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HARI-01-01/DSA_QUES/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1416-restore-the-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1416-restore-the-array) |
 | [1446-consecutive-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1446-consecutive-characters) |
