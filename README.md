@@ -212,6 +212,7 @@ The solution of the DSA question.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0845-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/HARI-01-01/DSA_QUES/tree/master/1048-longest-string-chain) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -235,6 +236,7 @@ The solution of the DSA question.
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
@@ -246,6 +248,7 @@ The solution of the DSA question.
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HARI-01-01/DSA_QUES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2578-split-with-minimum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2578-split-with-minimum-sum) |
@@ -313,6 +316,7 @@ The solution of the DSA question.
 | [1446-consecutive-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1446-consecutive-characters) |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
 | [1816-truncate-sentence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1816-truncate-sentence) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -480,5 +484,6 @@ The solution of the DSA question.
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/0678-valid-parenthesis-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
