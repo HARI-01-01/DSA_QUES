@@ -169,6 +169,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HARI-01-01/DSA_QUES/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0368-largest-divisible-subset) |
@@ -234,6 +235,7 @@ The solution of the DSA question.
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HARI-01-01/DSA_QUES/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
@@ -304,6 +306,7 @@ The solution of the DSA question.
 | [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
 | [0583-delete-operation-for-two-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0583-delete-operation-for-two-strings) |
@@ -399,6 +402,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
+| [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
