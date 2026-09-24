@@ -45,6 +45,7 @@ The solution of the DSA question.
 | [1534-count-good-triplets](https://github.com/HARI-01-01/DSA_QUES/tree/master/1534-count-good-triplets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HARI-01-01/DSA_QUES/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1816-truncate-sentence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1816-truncate-sentence) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -103,6 +104,7 @@ The solution of the DSA question.
 | [1331-rank-transform-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HARI-01-01/DSA_QUES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -272,6 +274,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/0300-longest-increasing-subsequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
@@ -290,6 +293,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3904-smallest-stable-index-ii) |
@@ -445,6 +449,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HARI-01-01/DSA_QUES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HARI-01-01/DSA_QUES/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
