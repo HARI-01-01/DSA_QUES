@@ -22,6 +22,7 @@ The solution of the DSA question.
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0628-maximum-product-of-three-numbers) |
@@ -244,6 +245,7 @@ The solution of the DSA question.
 | [0155-min-stack](https://github.com/HARI-01-01/DSA_QUES/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
@@ -274,6 +276,7 @@ The solution of the DSA question.
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search
