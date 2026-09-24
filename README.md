@@ -253,6 +253,7 @@ The solution of the DSA question.
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/HARI-01-01/DSA_QUES/tree/master/1544-make-the-string-great) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
@@ -337,6 +338,7 @@ The solution of the DSA question.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HARI-01-01/DSA_QUES/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1416-restore-the-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1416-restore-the-array) |
 | [1446-consecutive-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1446-consecutive-characters) |
+| [1544-make-the-string-great](https://github.com/HARI-01-01/DSA_QUES/tree/master/1544-make-the-string-great) |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
 | [1816-truncate-sentence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1816-truncate-sentence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
