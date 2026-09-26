@@ -48,6 +48,7 @@ The solution of the DSA question.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HARI-01-01/DSA_QUES/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1816-truncate-sentence) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -109,6 +110,7 @@ The solution of the DSA question.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HARI-01-01/DSA_QUES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -340,6 +342,7 @@ The solution of the DSA question.
 | [1446-consecutive-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1446-consecutive-characters) |
 | [1544-make-the-string-great](https://github.com/HARI-01-01/DSA_QUES/tree/master/1544-make-the-string-great) |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1816-truncate-sentence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
