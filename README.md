@@ -55,6 +55,7 @@ The solution of the DSA question.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARI-01-01/DSA_QUES/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HARI-01-01/DSA_QUES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -168,6 +169,7 @@ The solution of the DSA question.
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARI-01-01/DSA_QUES/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
@@ -401,6 +403,7 @@ The solution of the DSA question.
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HARI-01-01/DSA_QUES/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARI-01-01/DSA_QUES/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -527,4 +530,5 @@ The solution of the DSA question.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARI-01-01/DSA_QUES/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
