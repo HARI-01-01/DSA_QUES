@@ -6,6 +6,7 @@ The solution of the DSA question.
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -225,6 +226,7 @@ The solution of the DSA question.
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0556-next-greater-element-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0845-longest-mountain-in-array) |
@@ -246,6 +248,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HARI-01-01/DSA_QUES/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -285,6 +288,7 @@ The solution of the DSA question.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0496-next-greater-element-i) |
@@ -368,6 +372,7 @@ The solution of the DSA question.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HARI-01-01/DSA_QUES/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
