@@ -252,6 +252,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
@@ -344,6 +345,7 @@ The solution of the DSA question.
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HARI-01-01/DSA_QUES/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/HARI-01-01/DSA_QUES/tree/master/0115-distinct-subsequences) |
@@ -385,6 +387,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/HARI-01-01/DSA_QUES/tree/master/0072-edit-distance) |
@@ -549,6 +552,7 @@ The solution of the DSA question.
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
