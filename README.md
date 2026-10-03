@@ -32,6 +32,7 @@ The solution of the DSA question.
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HARI-01-01/DSA_QUES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0735-asteroid-collision](https://github.com/HARI-01-01/DSA_QUES/tree/master/0735-asteroid-collision) |
 | [0845-longest-mountain-in-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/HARI-01-01/DSA_QUES/tree/master/0907-sum-of-subarray-minimums) |
@@ -241,6 +242,7 @@ The solution of the DSA question.
 | ------- |
 | [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/HARI-01-01/DSA_QUES/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/3360-stone-removal-game) |
@@ -261,6 +263,7 @@ The solution of the DSA question.
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/HARI-01-01/DSA_QUES/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/HARI-01-01/DSA_QUES/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/HARI-01-01/DSA_QUES/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/1019-next-greater-node-in-linked-list) |
