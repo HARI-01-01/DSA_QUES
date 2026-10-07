@@ -6,6 +6,7 @@ The solution of the DSA question.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
@@ -230,6 +231,7 @@ The solution of the DSA question.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0556-next-greater-element-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -285,6 +287,7 @@ The solution of the DSA question.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/0402-remove-k-digits) |
