@@ -159,6 +159,7 @@ The solution of the DSA question.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -360,6 +361,7 @@ The solution of the DSA question.
 | [0132-palindrome-partitioning-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0301-remove-invalid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
@@ -459,6 +461,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 ## Memoization
 |  |
