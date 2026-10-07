@@ -260,6 +260,7 @@ The solution of the DSA question.
 | [0150-evaluate-reverse-polish-notation](https://github.com/HARI-01-01/DSA_QUES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HARI-01-01/DSA_QUES/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -285,6 +286,7 @@ The solution of the DSA question.
 | ------- |
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/HARI-01-01/DSA_QUES/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -304,6 +306,7 @@ The solution of the DSA question.
 | [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -358,6 +361,7 @@ The solution of the DSA question.
 | [0205-isomorphic-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
 | [0556-next-greater-element-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0583-delete-operation-for-two-strings) |
