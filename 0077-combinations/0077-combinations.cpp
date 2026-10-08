@@ -2,14 +2,15 @@ class Solution {
 public:
 vector<vector<int>> ans;
 void func(int j,int &n,int &k,vector<int> level){
+    int m = level.size();
     // base case
-    if(level.size() == k){
+    if(m == k){
         ans.push_back(level);
         return ;
     }
 
     // all option
-    for(int i=j+1;i<=n;i++){
+    for(int i=j+1;i<=n-k+m+1;i++){
         level.push_back(i);
         func(i,n,k,level);
         level.pop_back();
