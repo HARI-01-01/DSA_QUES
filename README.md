@@ -281,6 +281,7 @@ The solution of the DSA question.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/HARI-01-01/DSA_QUES/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -299,6 +300,7 @@ The solution of the DSA question.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -388,6 +390,7 @@ The solution of the DSA question.
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HARI-01-01/DSA_QUES/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1416-restore-the-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1416-restore-the-array) |
 | [1446-consecutive-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1446-consecutive-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/HARI-01-01/DSA_QUES/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
@@ -585,6 +588,7 @@ The solution of the DSA question.
 | [1021-remove-outermost-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
