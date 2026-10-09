@@ -155,6 +155,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/HARI-01-01/DSA_QUES/tree/master/3310-remove-methods-from-project) |
@@ -379,6 +380,7 @@ The solution of the DSA question.
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/HARI-01-01/DSA_QUES/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -474,6 +476,7 @@ The solution of the DSA question.
 | [0077-combinations](https://github.com/HARI-01-01/DSA_QUES/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Memoization
 |  |
 | ------- |
@@ -550,10 +553,12 @@ The solution of the DSA question.
 ## Tree
 |  |
 | ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Range Minimum/Maximum Query
 |  |
