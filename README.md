@@ -62,6 +62,7 @@ The solution of the DSA question.
 | [2104-sum-of-subarray-ranges](https://github.com/HARI-01-01/DSA_QUES/tree/master/2104-sum-of-subarray-ranges) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARI-01-01/DSA_QUES/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HARI-01-01/DSA_QUES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -144,6 +145,7 @@ The solution of the DSA question.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HARI-01-01/DSA_QUES/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2578-split-with-minimum-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -305,6 +307,7 @@ The solution of the DSA question.
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2578-split-with-minimum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -330,6 +333,7 @@ The solution of the DSA question.
 | [0300-longest-increasing-subsequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/0300-longest-increasing-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -469,6 +473,7 @@ The solution of the DSA question.
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
 | [1046-last-stone-weight](https://github.com/HARI-01-01/DSA_QUES/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
