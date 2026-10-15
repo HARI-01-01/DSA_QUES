@@ -7,7 +7,7 @@ public:
             set<int> st;
             for(int j=i;j<n;j++){
                 st.insert(arr[j]);
-                ans += pow(st.size(),2);
+                ans += st.size()*st.size();
             }
            
         }
