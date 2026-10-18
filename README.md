@@ -53,6 +53,7 @@ The solution of the DSA question.
 | [1534-count-good-triplets](https://github.com/HARI-01-01/DSA_QUES/tree/master/1534-count-good-triplets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HARI-01-01/DSA_QUES/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1816-truncate-sentence) |
@@ -186,6 +187,7 @@ The solution of the DSA question.
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -218,6 +220,7 @@ The solution of the DSA question.
 | [1406-stone-game-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HARI-01-01/DSA_QUES/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/HARI-01-01/DSA_QUES/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2578-split-with-minimum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2578-split-with-minimum-sum) |
@@ -356,6 +359,7 @@ The solution of the DSA question.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -474,6 +478,7 @@ The solution of the DSA question.
 | [1510-stone-game-iv](https://github.com/HARI-01-01/DSA_QUES/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/HARI-01-01/DSA_QUES/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARI-01-01/DSA_QUES/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -504,6 +509,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -562,6 +568,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Database
 |  |
 | ------- |
@@ -577,11 +584,13 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Range Minimum/Maximum Query
 |  |
@@ -643,4 +652,12 @@ The solution of the DSA question.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
