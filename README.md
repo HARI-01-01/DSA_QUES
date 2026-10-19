@@ -42,6 +42,7 @@ The solution of the DSA question.
 | [1043-partition-array-for-maximum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/HARI-01-01/DSA_QUES/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/HARI-01-01/DSA_QUES/tree/master/1048-longest-string-chain) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/HARI-01-01/DSA_QUES/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1331-rank-transform-of-an-array) |
@@ -216,6 +217,7 @@ The solution of the DSA question.
 | [0628-maximum-product-of-three-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/HARI-01-01/DSA_QUES/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HARI-01-01/DSA_QUES/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HARI-01-01/DSA_QUES/tree/master/1510-stone-game-iv) |
@@ -269,6 +271,7 @@ The solution of the DSA question.
 | [0657-robot-return-to-origin](https://github.com/HARI-01-01/DSA_QUES/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/HARI-01-01/DSA_QUES/tree/master/0735-asteroid-collision) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/HARI-01-01/DSA_QUES/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/3360-stone-removal-game) |
