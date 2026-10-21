@@ -446,6 +446,7 @@ The solution of the DSA question.
 | [3498-reverse-degree-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
