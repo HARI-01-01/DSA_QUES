@@ -123,6 +123,7 @@ The solution of the DSA question.
 | [0205-isomorphic-strings](https://github.com/HARI-01-01/DSA_QUES/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
@@ -586,6 +587,7 @@ The solution of the DSA question.
 ## Linked List
 |  |
 | ------- |
+| [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/1019-next-greater-node-in-linked-list) |
@@ -611,6 +613,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HARI-01-01/DSA_QUES/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/HARI-01-01/DSA_QUES/tree/master/0901-online-stock-span) |
@@ -670,4 +673,8 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
