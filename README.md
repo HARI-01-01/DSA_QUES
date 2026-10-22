@@ -93,6 +93,7 @@ The solution of the DSA question.
 | [3895-count-digit-appearances](https://github.com/HARI-01-01/DSA_QUES/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/HARI-01-01/DSA_QUES/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
