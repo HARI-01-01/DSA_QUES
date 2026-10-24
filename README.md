@@ -95,6 +95,7 @@ The solution of the DSA question.
 | [3903-smallest-stable-index-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/HARI-01-01/DSA_QUES/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +155,7 @@ The solution of the DSA question.
 | [3718-smallest-missing-multiple-of-k](https://github.com/HARI-01-01/DSA_QUES/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/HARI-01-01/DSA_QUES/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -178,6 +180,7 @@ The solution of the DSA question.
 | [3731-find-missing-elements](https://github.com/HARI-01-01/DSA_QUES/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/HARI-01-01/DSA_QUES/tree/master/3886-sum-of-sortable-integers) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,6 +291,7 @@ The solution of the DSA question.
 | [3360-stone-removal-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
 |  |
 | ------- |
@@ -385,6 +389,7 @@ The solution of the DSA question.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -506,6 +511,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -514,6 +520,7 @@ The solution of the DSA question.
 | [1046-last-stone-weight](https://github.com/HARI-01-01/DSA_QUES/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/2333-minimum-sum-of-squared-difference) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
 |  |
 | ------- |
