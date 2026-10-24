@@ -233,6 +233,7 @@ The solution of the DSA question.
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/HARI-01-01/DSA_QUES/tree/master/2409-count-days-spent-together) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/HARI-01-01/DSA_QUES/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2578-split-with-minimum-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2578-split-with-minimum-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/2769-find-the-maximum-achievable-number) |
@@ -440,6 +441,7 @@ The solution of the DSA question.
 | [1816-truncate-sentence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1816-truncate-sentence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2409-count-days-spent-together](https://github.com/HARI-01-01/DSA_QUES/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/HARI-01-01/DSA_QUES/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
