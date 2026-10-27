@@ -103,6 +103,7 @@ The solution of the DSA question.
 | ------- |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HARI-01-01/DSA_QUES/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
