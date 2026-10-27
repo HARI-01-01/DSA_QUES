@@ -102,6 +102,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HARI-01-01/DSA_QUES/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HARI-01-01/DSA_QUES/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
