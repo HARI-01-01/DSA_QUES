@@ -8,6 +8,7 @@ The solution of the DSA question.
 | ------- |
 | [0011-container-with-most-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/HARI-01-01/DSA_QUES/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARI-01-01/DSA_QUES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -101,6 +102,7 @@ The solution of the DSA question.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HARI-01-01/DSA_QUES/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HARI-01-01/DSA_QUES/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
@@ -540,6 +542,7 @@ The solution of the DSA question.
 | ------- |
 | [0022-generate-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/HARI-01-01/DSA_QUES/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/HARI-01-01/DSA_QUES/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0494-target-sum) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
