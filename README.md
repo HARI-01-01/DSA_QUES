@@ -107,6 +107,7 @@ The solution of the DSA question.
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HARI-01-01/DSA_QUES/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HARI-01-01/DSA_QUES/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/HARI-01-01/DSA_QUES/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -250,6 +251,7 @@ The solution of the DSA question.
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HARI-01-01/DSA_QUES/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HARI-01-01/DSA_QUES/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/HARI-01-01/DSA_QUES/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/HARI-01-01/DSA_QUES/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
