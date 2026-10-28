@@ -8,7 +8,7 @@ public:
                 num--;
             }else{
                 //even
-                num/=2;
+                num>>=1;
             }
             cnt++;
         }
