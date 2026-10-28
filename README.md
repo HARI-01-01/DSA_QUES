@@ -106,6 +106,7 @@ The solution of the DSA question.
 | [0078-subsets](https://github.com/HARI-01-01/DSA_QUES/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HARI-01-01/DSA_QUES/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -249,6 +250,7 @@ The solution of the DSA question.
 | [0877-stone-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HARI-01-01/DSA_QUES/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HARI-01-01/DSA_QUES/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1486-xor-operation-in-an-array) |
