@@ -92,6 +92,7 @@ The solution of the DSA question.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HARI-01-01/DSA_QUES/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/HARI-01-01/DSA_QUES/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3866-first-unique-even-element](https://github.com/HARI-01-01/DSA_QUES/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/HARI-01-01/DSA_QUES/tree/master/3886-sum-of-sortable-integers) |
@@ -116,6 +117,7 @@ The solution of the DSA question.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HARI-01-01/DSA_QUES/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HARI-01-01/DSA_QUES/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/HARI-01-01/DSA_QUES/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
@@ -203,6 +205,7 @@ The solution of the DSA question.
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/HARI-01-01/DSA_QUES/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARI-01-01/DSA_QUES/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -480,6 +483,7 @@ The solution of the DSA question.
 | [3498-reverse-degree-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -618,6 +622,7 @@ The solution of the DSA question.
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Database
 |  |
 | ------- |
@@ -636,6 +641,7 @@ The solution of the DSA question.
 | [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -698,11 +704,13 @@ The solution of the DSA question.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
