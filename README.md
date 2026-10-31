@@ -87,6 +87,7 @@ The solution of the DSA question.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARI-01-01/DSA_QUES/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/HARI-01-01/DSA_QUES/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/HARI-01-01/DSA_QUES/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HARI-01-01/DSA_QUES/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HARI-01-01/DSA_QUES/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HARI-01-01/DSA_QUES/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -233,6 +234,7 @@ The solution of the DSA question.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARI-01-01/DSA_QUES/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARI-01-01/DSA_QUES/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/HARI-01-01/DSA_QUES/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
@@ -534,6 +536,7 @@ The solution of the DSA question.
 | [1668-maximum-repeating-substring](https://github.com/HARI-01-01/DSA_QUES/tree/master/1668-maximum-repeating-substring) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARI-01-01/DSA_QUES/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/HARI-01-01/DSA_QUES/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
