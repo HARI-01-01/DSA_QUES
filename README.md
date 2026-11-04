@@ -79,6 +79,7 @@ The solution of the DSA question.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HARI-01-01/DSA_QUES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/HARI-01-01/DSA_QUES/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3285-find-indices-of-stable-mountains](https://github.com/HARI-01-01/DSA_QUES/tree/master/3285-find-indices-of-stable-mountains) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
@@ -118,6 +119,7 @@ The solution of the DSA question.
 | [1486-xor-operation-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HARI-01-01/DSA_QUES/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/HARI-01-01/DSA_QUES/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/HARI-01-01/DSA_QUES/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -165,6 +167,7 @@ The solution of the DSA question.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HARI-01-01/DSA_QUES/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/HARI-01-01/DSA_QUES/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/3471-find-the-largest-almost-missing-integer) |
