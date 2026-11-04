@@ -14,6 +14,7 @@ The solution of the DSA question.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HARI-01-01/DSA_QUES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/HARI-01-01/DSA_QUES/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0239-sliding-window-maximum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0239-sliding-window-maximum) |
@@ -110,6 +111,7 @@ The solution of the DSA question.
 | ------- |
 | [0078-subsets](https://github.com/HARI-01-01/DSA_QUES/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0137-single-number-ii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HARI-01-01/DSA_QUES/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
