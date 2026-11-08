@@ -49,6 +49,7 @@ The solution of the DSA question.
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HARI-01-01/DSA_QUES/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HARI-01-01/DSA_QUES/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/HARI-01-01/DSA_QUES/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -219,6 +220,7 @@ The solution of the DSA question.
 | [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1254-number-of-closed-islands](https://github.com/HARI-01-01/DSA_QUES/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HARI-01-01/DSA_QUES/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/HARI-01-01/DSA_QUES/tree/master/3310-remove-methods-from-project) |
@@ -231,6 +233,7 @@ The solution of the DSA question.
 | [0322-coin-change](https://github.com/HARI-01-01/DSA_QUES/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/HARI-01-01/DSA_QUES/tree/master/0841-keys-and-rooms) |
 | [1254-number-of-closed-islands](https://github.com/HARI-01-01/DSA_QUES/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HARI-01-01/DSA_QUES/tree/master/1267-count-servers-that-communicate) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/HARI-01-01/DSA_QUES/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARI-01-01/DSA_QUES/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -238,6 +241,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/HARI-01-01/DSA_QUES/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HARI-01-01/DSA_QUES/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARI-01-01/DSA_QUES/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -247,6 +251,7 @@ The solution of the DSA question.
 | [0085-maximal-rectangle](https://github.com/HARI-01-01/DSA_QUES/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/HARI-01-01/DSA_QUES/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/HARI-01-01/DSA_QUES/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARI-01-01/DSA_QUES/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -436,6 +441,7 @@ The solution of the DSA question.
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/HARI-01-01/DSA_QUES/tree/master/1267-count-servers-that-communicate) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/HARI-01-01/DSA_QUES/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
