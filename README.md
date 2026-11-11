@@ -118,6 +118,7 @@ The solution of the DSA question.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/HARI-01-01/DSA_QUES/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0137-single-number-ii) |
@@ -271,6 +272,7 @@ The solution of the DSA question.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HARI-01-01/DSA_QUES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0263-ugly-number) |
