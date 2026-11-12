@@ -85,6 +85,7 @@ The solution of the DSA question.
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HARI-01-01/DSA_QUES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/HARI-01-01/DSA_QUES/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3285-find-indices-of-stable-mountains](https://github.com/HARI-01-01/DSA_QUES/tree/master/3285-find-indices-of-stable-mountains) |
