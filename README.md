@@ -33,6 +33,7 @@ The solution of the DSA question.
 | [0518-coin-change-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0628-maximum-product-of-three-numbers) |
+| [0665-non-decreasing-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
