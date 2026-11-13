@@ -117,6 +117,7 @@ The solution of the DSA question.
 | [3903-smallest-stable-index-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/HARI-01-01/DSA_QUES/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
 |  |
@@ -194,6 +195,7 @@ The solution of the DSA question.
 | [3731-find-missing-elements](https://github.com/HARI-01-01/DSA_QUES/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/HARI-01-01/DSA_QUES/tree/master/3866-first-unique-even-element) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
