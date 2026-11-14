@@ -13,6 +13,7 @@ public:
                         mini = min(mini,sum);
                     }
                 }
+                if(j-i+1>r) break;
             }
         }
         return mini==INT_MAX?-1:mini;
