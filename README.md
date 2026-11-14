@@ -91,6 +91,7 @@ The solution of the DSA question.
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3285-find-indices-of-stable-mountains](https://github.com/HARI-01-01/DSA_QUES/tree/master/3285-find-indices-of-stable-mountains) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HARI-01-01/DSA_QUES/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/3483-unique-3-digit-even-numbers) |
@@ -475,6 +476,7 @@ The solution of the DSA question.
 | [1480-running-sum-of-1d-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3904-smallest-stable-index-ii) |
 ## Counting Sort
@@ -679,6 +681,7 @@ The solution of the DSA question.
 | [2747-count-zero-request-servers](https://github.com/HARI-01-01/DSA_QUES/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HARI-01-01/DSA_QUES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HARI-01-01/DSA_QUES/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HARI-01-01/DSA_QUES/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HARI-01-01/DSA_QUES/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
