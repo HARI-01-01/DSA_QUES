@@ -610,6 +610,7 @@ The solution of the DSA question.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HARI-01-01/DSA_QUES/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HARI-01-01/DSA_QUES/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/HARI-01-01/DSA_QUES/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HARI-01-01/DSA_QUES/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -711,6 +712,7 @@ The solution of the DSA question.
 ## Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HARI-01-01/DSA_QUES/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -718,6 +720,7 @@ The solution of the DSA question.
 ## Binary Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HARI-01-01/DSA_QUES/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -731,6 +734,7 @@ The solution of the DSA question.
 | ------- |
 | [0155-min-stack](https://github.com/HARI-01-01/DSA_QUES/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HARI-01-01/DSA_QUES/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/HARI-01-01/DSA_QUES/tree/master/0901-online-stock-span) |
@@ -763,6 +767,7 @@ The solution of the DSA question.
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HARI-01-01/DSA_QUES/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/HARI-01-01/DSA_QUES/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -790,6 +795,7 @@ The solution of the DSA question.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/HARI-01-01/DSA_QUES/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
