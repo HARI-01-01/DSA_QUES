@@ -173,6 +173,7 @@ The solution of the DSA question.
 | [1048-longest-string-chain](https://github.com/HARI-01-01/DSA_QUES/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1370-increasing-decreasing-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1370-increasing-decreasing-string) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -467,6 +468,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/HARI-01-01/DSA_QUES/tree/master/1267-count-servers-that-communicate) |
+| [1370-increasing-decreasing-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1370-increasing-decreasing-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/HARI-01-01/DSA_QUES/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -522,6 +524,7 @@ The solution of the DSA question.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/HARI-01-01/DSA_QUES/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HARI-01-01/DSA_QUES/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1370-increasing-decreasing-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1370-increasing-decreasing-string) |
 | [1416-restore-the-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1416-restore-the-array) |
 | [1446-consecutive-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/1446-consecutive-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
