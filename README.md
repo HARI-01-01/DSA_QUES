@@ -717,6 +717,7 @@ The solution of the DSA question.
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
