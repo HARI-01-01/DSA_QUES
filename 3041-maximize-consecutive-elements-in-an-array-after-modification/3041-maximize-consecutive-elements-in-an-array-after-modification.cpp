@@ -2,7 +2,6 @@ class Solution {
 public:
 
     int maxSelectedElements(vector<int>& arr) {
-        int n = arr.size();
 
         sort(arr.begin(),arr.end());
         unordered_map<int,int>dp;
