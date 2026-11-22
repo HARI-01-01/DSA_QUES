@@ -542,6 +542,7 @@ The solution of the DSA question.
 | [1816-truncate-sentence](https://github.com/HARI-01-01/DSA_QUES/tree/master/1816-truncate-sentence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HARI-01-01/DSA_QUES/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/HARI-01-01/DSA_QUES/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/HARI-01-01/DSA_QUES/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/HARI-01-01/DSA_QUES/tree/master/2833-furthest-point-from-origin) |
