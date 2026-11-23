@@ -286,6 +286,7 @@ The solution of the DSA question.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HARI-01-01/DSA_QUES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
@@ -656,6 +657,7 @@ The solution of the DSA question.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
@@ -721,6 +723,7 @@ The solution of the DSA question.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
