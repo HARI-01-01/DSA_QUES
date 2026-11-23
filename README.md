@@ -95,6 +95,7 @@ The solution of the DSA question.
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3285-find-indices-of-stable-mountains](https://github.com/HARI-01-01/DSA_QUES/tree/master/3285-find-indices-of-stable-mountains) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HARI-01-01/DSA_QUES/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HARI-01-01/DSA_QUES/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -193,6 +194,7 @@ The solution of the DSA question.
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/HARI-01-01/DSA_QUES/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HARI-01-01/DSA_QUES/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HARI-01-01/DSA_QUES/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -245,6 +247,7 @@ The solution of the DSA question.
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/HARI-01-01/DSA_QUES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/HARI-01-01/DSA_QUES/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HARI-01-01/DSA_QUES/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HARI-01-01/DSA_QUES/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -558,6 +561,7 @@ The solution of the DSA question.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HARI-01-01/DSA_QUES/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HARI-01-01/DSA_QUES/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HARI-01-01/DSA_QUES/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3340-check-balanced-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -744,6 +748,7 @@ The solution of the DSA question.
 | [0988-smallest-string-starting-from-leaf](https://github.com/HARI-01-01/DSA_QUES/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARI-01-01/DSA_QUES/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARI-01-01/DSA_QUES/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/HARI-01-01/DSA_QUES/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/HARI-01-01/DSA_QUES/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
