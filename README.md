@@ -294,6 +294,7 @@ The solution of the DSA question.
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HARI-01-01/DSA_QUES/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
@@ -390,6 +391,7 @@ The solution of the DSA question.
 | [0155-min-stack](https://github.com/HARI-01-01/DSA_QUES/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -726,6 +728,7 @@ The solution of the DSA question.
 | [0002-add-two-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
