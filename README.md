@@ -53,6 +53,7 @@ The solution of the DSA question.
 | [1267-count-servers-that-communicate](https://github.com/HARI-01-01/DSA_QUES/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/HARI-01-01/DSA_QUES/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HARI-01-01/DSA_QUES/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/HARI-01-01/DSA_QUES/tree/master/1386-cinema-seat-allocation) |
@@ -304,6 +305,7 @@ The solution of the DSA question.
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HARI-01-01/DSA_QUES/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HARI-01-01/DSA_QUES/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1486-xor-operation-in-an-array) |
@@ -489,6 +491,7 @@ The solution of the DSA question.
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -763,6 +766,7 @@ The solution of the DSA question.
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/HARI-01-01/DSA_QUES/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
 | ------- |
@@ -794,6 +798,7 @@ The solution of the DSA question.
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HARI-01-01/DSA_QUES/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/HARI-01-01/DSA_QUES/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
