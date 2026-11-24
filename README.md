@@ -309,6 +309,7 @@ The solution of the DSA question.
 | [0877-stone-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HARI-01-01/DSA_QUES/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HARI-01-01/DSA_QUES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HARI-01-01/DSA_QUES/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -745,6 +746,7 @@ The solution of the DSA question.
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/1019-next-greater-node-in-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HARI-01-01/DSA_QUES/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tree
 |  |
