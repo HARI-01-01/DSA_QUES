@@ -123,6 +123,7 @@ The solution of the DSA question.
 | [3895-count-digit-appearances](https://github.com/HARI-01-01/DSA_QUES/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/HARI-01-01/DSA_QUES/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
@@ -206,6 +207,7 @@ The solution of the DSA question.
 | [3731-find-missing-elements](https://github.com/HARI-01-01/DSA_QUES/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/HARI-01-01/DSA_QUES/tree/master/3866-first-unique-even-element) |
+| [3934-smallest-unique-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3934-smallest-unique-subarray) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -478,6 +480,7 @@ The solution of the DSA question.
 | [2089-find-target-indices-after-sorting-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARI-01-01/DSA_QUES/tree/master/3312-sorted-gcd-pair-queries) |
+| [3934-smallest-unique-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -784,6 +787,7 @@ The solution of the DSA question.
 | ------- |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3934-smallest-unique-subarray) |
 ## Geometry
 |  |
 | ------- |
@@ -851,4 +855,12 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
