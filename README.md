@@ -303,6 +303,7 @@ The solution of the DSA question.
 | [0263-ugly-number](https://github.com/HARI-01-01/DSA_QUES/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0368-largest-divisible-subset) |
+| [0382-linked-list-random-node](https://github.com/HARI-01-01/DSA_QUES/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/HARI-01-01/DSA_QUES/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HARI-01-01/DSA_QUES/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -749,6 +750,7 @@ The solution of the DSA question.
 | [0002-add-two-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/HARI-01-01/DSA_QUES/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
@@ -870,4 +872,12 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/3934-smallest-unique-subarray) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/HARI-01-01/DSA_QUES/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/HARI-01-01/DSA_QUES/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
