@@ -102,6 +102,7 @@ The solution of the DSA question.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HARI-01-01/DSA_QUES/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/HARI-01-01/DSA_QUES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -201,6 +202,7 @@ The solution of the DSA question.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HARI-01-01/DSA_QUES/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/HARI-01-01/DSA_QUES/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HARI-01-01/DSA_QUES/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -388,6 +390,7 @@ The solution of the DSA question.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/HARI-01-01/DSA_QUES/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/HARI-01-01/DSA_QUES/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARI-01-01/DSA_QUES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Stack
@@ -638,6 +641,7 @@ The solution of the DSA question.
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/HARI-01-01/DSA_QUES/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1818-minimum-absolute-sum-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/1818-minimum-absolute-sum-difference) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
@@ -651,6 +655,7 @@ The solution of the DSA question.
 | [1882-process-tasks-using-servers](https://github.com/HARI-01-01/DSA_QUES/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HARI-01-01/DSA_QUES/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HARI-01-01/DSA_QUES/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HARI-01-01/DSA_QUES/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/HARI-01-01/DSA_QUES/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Backtracking
@@ -751,6 +756,7 @@ The solution of the DSA question.
 | [1019-next-greater-node-in-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HARI-01-01/DSA_QUES/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -851,6 +857,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Shortest Path
 |  |
 | ------- |
