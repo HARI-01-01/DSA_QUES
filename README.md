@@ -365,6 +365,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
 | [0556-next-greater-element-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0556-next-greater-element-iii) |
@@ -748,6 +749,7 @@ The solution of the DSA question.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/HARI-01-01/DSA_QUES/tree/master/0382-linked-list-random-node) |
