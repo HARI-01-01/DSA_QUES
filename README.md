@@ -684,6 +684,7 @@ The solution of the DSA question.
 | [0002-add-two-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/HARI-01-01/DSA_QUES/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/3483-unique-3-digit-even-numbers) |
@@ -751,6 +752,7 @@ The solution of the DSA question.
 | [0002-add-two-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/HARI-01-01/DSA_QUES/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0445-add-two-numbers-ii) |
