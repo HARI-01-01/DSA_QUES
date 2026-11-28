@@ -766,6 +766,7 @@ The solution of the DSA question.
 | [0460-lfu-cache](https://github.com/HARI-01-01/DSA_QUES/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0707-design-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HARI-01-01/DSA_QUES/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HARI-01-01/DSA_QUES/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -799,6 +800,7 @@ The solution of the DSA question.
 | [0703-kth-largest-element-in-a-stream](https://github.com/HARI-01-01/DSA_QUES/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/HARI-01-01/DSA_QUES/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/HARI-01-01/DSA_QUES/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/HARI-01-01/DSA_QUES/tree/master/0901-online-stock-span) |
 | [1352-product-of-the-last-k-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Function
