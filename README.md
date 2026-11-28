@@ -369,6 +369,7 @@ The solution of the DSA question.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/HARI-01-01/DSA_QUES/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HARI-01-01/DSA_QUES/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/HARI-01-01/DSA_QUES/tree/master/0845-longest-mountain-in-array) |
@@ -408,6 +409,7 @@ The solution of the DSA question.
 | [0150-evaluate-reverse-polish-notation](https://github.com/HARI-01-01/DSA_QUES/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HARI-01-01/DSA_QUES/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/HARI-01-01/DSA_QUES/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/HARI-01-01/DSA_QUES/tree/master/0496-next-greater-element-i) |
@@ -689,6 +691,7 @@ The solution of the DSA question.
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/HARI-01-01/DSA_QUES/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/HARI-01-01/DSA_QUES/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HARI-01-01/DSA_QUES/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -756,6 +759,7 @@ The solution of the DSA question.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/HARI-01-01/DSA_QUES/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/HARI-01-01/DSA_QUES/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/HARI-01-01/DSA_QUES/tree/master/0445-add-two-numbers-ii) |
